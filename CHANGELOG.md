@@ -16,7 +16,7 @@
 	-	Italian by @antarcorrado
 	-	Vietnamese by @megai2k14 & @trmdi
 	-	Portuguese by @Blackspirits
-	-	Russian by Artem and @walway
+	-	Russian by @walway
 	-	Belarusian by @The518thGuy
 	-	Polish by @Zylvo
 
